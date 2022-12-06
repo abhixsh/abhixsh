@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/abhixsh" target="blank"><img src="https://img.shields.io/twitter/follow/abhixsh?logo=twitter&style=for-the-badge" alt="abhixsh" /></a> </p>
 
 **About**
+
 First-year BICT student, backend developer, with 2 years of experience in graphic designing and web design. I'm passionate about programming computers and using technology. I've been programming computers since I was in middle school. I have been able to create programs for a variety of things because of this interest. I am skilled in HTML, CSS, PHP, Python, and C.
 
 And also I have a lot of experience with illustration, creation, and logo design. Photoshop and Illustrator are among my abilities. Working with clients in both the corporate and personal sectors has been a pleasure for me. I have worked on projects for numerous prestigious businesses.
