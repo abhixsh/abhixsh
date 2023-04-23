@@ -1,6 +1,6 @@
 
 <div  align='center'>
-	<a href="https://ibb.co/wsMWDbD"><img src="https://i.ibb.co/168qHpH/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.jpg" alt="205411672-eb589407-43a9-484a-b0cc-ed7caf280776" border="0"></a>
+	<a href="https://ibb.co/5LB0H7Y"><img src="https://i.ibb.co/KWFPv1N/Untitled-2.jpg" alt="Untitled-2" border="0"></a>
 </div>
 
 ## Hello! I'm Abishek Haththakage.
