@@ -21,7 +21,7 @@ I'm currently reading Bachelor of Information and Communication Technology Honou
 -  Read my latest dev articles on [Dev Community](https://dev.to/abhixsh) ✍
 
 
-<table>
+<table border='0'>
 <tr>
 <td>
 
