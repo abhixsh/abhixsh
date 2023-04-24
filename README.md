@@ -1,7 +1,6 @@
 
-<div  align='center'>
-	<a href="https://ibb.co/5LWHQws"><img src="https://i.ibb.co/2d74zHc/github-header-image.png" alt="github-header-image" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>online json parser validator</a><br />
-</div>
+	<a href="https://ibb.co/NmHMTcL"><img src="https://i.ibb.co/8dSHY1j/github-header-image-1.png" alt="github-header-image-1" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>online json parser validator</a><br />
+
 
 ## Hello! I'm Abishek Haththakage.
 
