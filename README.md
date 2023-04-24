@@ -1,4 +1,4 @@
-<a href="https://ibb.co/k8YkJm7"><img src="https://i.ibb.co/XsmNDYQ/github-header-image-2.png" alt="github-header-image-2" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>online json parser validator</a><br />
+[![MasterHead](Untitled-2.jpg)](https://camo.githubusercontent.com/)
 
 
 ## Hello! I'm Abishek Haththakage.
