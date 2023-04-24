@@ -4,7 +4,8 @@
 ## Hello! I'm Abishek Haththakage.
 
 Hi, My name is Abishek Haththakage, 21 year old undergraduate from Sri Lanka.
-I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at [Uva Wellassa University](https://www.uwu.ac.lk/).
+I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at [Uva Wellassa University](https://www.uwu.ac.lk/). 
+> Check out my [projects](https://gist.github.com/abhixsh/e1c14d9726ebcb048801ac2d8f077b24#file-my-projects-md) and [Event Participation and public work](https://gist.github.com/abhixsh/d906ecfef270001763a402f21135085f) ! 🚀
 
 ## :bulb: Things that interest me
 
@@ -57,5 +58,4 @@ I'm currently reading Bachelor of Information and Communication Technology Honou
 
 ![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhixsh&show_icons=true&theme=transparent)
 </p>
-
 
