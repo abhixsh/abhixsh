@@ -19,9 +19,10 @@ I'm currently reading Bachelor of Information and Communication Technology Honou
 ## :link: External links
 
 
+
 -  Read my latest dev articles on [Dev Community](https://dev.to/abhixsh) ✍
 
-
+<center>
 <table border='0'>
 <tr>
 <td>
@@ -59,3 +60,4 @@ I'm currently reading Bachelor of Information and Communication Technology Honou
 ![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhixsh&show_icons=true&theme=transparent)
 </p>
 
+</center>
