@@ -12,7 +12,7 @@ I'm currently reading Bachelor of Information and Communication Technology Honou
 - Developing
 	- Some of Languages & Tools 
 	
-		![My Skills](https://skillicons.dev/icons?i=azure,aws,githubactions,linux,bash,nginx,docker,jenkins,bitbucket,kubernetes,terraform,git,postman,react,nodejs,express,mongodb,js,java,bootstrap,figma,ps,ai&perline=11)
+		![My Skills](https://skillicons.dev/icons?i=azure,aws,githubactions,linux,bash,nginx,docker,jenkins,bitbucket,kubernetes,terraform,git,postman,react,nodejs,express,mongodb,js,java,bootstrap,figma,ps&perline=11)
 
 - Volunteering enthusiastic :ghost:
 
