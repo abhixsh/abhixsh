@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/d84e86e5-f59b-4a7e-a7de-b08bb374c94b)](https://www.linkedin.com/in/abhixsh/)
+[![MasterHead](https://github.com/user-attachments/assets/8b390241-49d6-4bc4-89a0-b63a3c982b54)](https://www.linkedin.com/in/abhixsh/)
 
 ## Hello! I'm Abishek Haththakage.
 
